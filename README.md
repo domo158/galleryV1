@@ -1,2 +1,2 @@
 # galleryV1
-PHP - gallery
+CMS Gallery made with OOP PHP 
